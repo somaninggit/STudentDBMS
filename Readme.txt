@@ -23,7 +23,7 @@ Password: Test@123
 
 Credential for Student / User panel :
 
-Username: anujk3
+Username: Somu17
 Password: Test@123
 
  Or Register a new Student/User.
